@@ -2,6 +2,8 @@
 
 int main(){
 
-std::cout<<"Hello word!\n";
+std::cout<<"Hello top-it!";
+std::cout<<"/n";
+
 
 }

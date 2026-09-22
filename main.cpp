@@ -2,8 +2,7 @@
 
 int main(){
 
-std::cout<<"Hi, top-it!";
-std::cout<<"/n";
-std::cout<<"My name is Nikita";
 
+std::cout<<"Greetings, top-it!";
+std::cout<<"/n";
 }
